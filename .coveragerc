@@ -1,0 +1,7 @@
+[run]
+source= diffgas/
+
+omit =
+    diffgas/__init__.py
+    diffgas/_version.py
+    diffgas/tests/*.py
